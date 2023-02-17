@@ -6,5 +6,5 @@ Get started quickly using [Overleaf](https://www.overleaf.com/project/63a5b21c22
 
 ### Preview
 
-![Screenshot from 2023-02-17 15-15-27](https://user-images.githubusercontent.com/97084090/219610321-1bc6cbed-2f5b-491d-87b3-f6553266e017.png)
+![Resume Screenshot](/resume_preview.png)
 
